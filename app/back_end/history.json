@@ -1,0 +1,16 @@
+[
+  {
+    "text": "个人电脑很容易推荐儿童节那你",
+    "score": 0.94,
+    "label": "偏积极",
+    "pinyin": "gè rén diàn nǎo hěn róng yì tuī jiàn ér tóng jié nà nǐ",
+    "created_at": "2026-08-23T14:51:23+00:00"
+  },
+  {
+    "text": "会不会艰苦不会不会",
+    "score": 0.58,
+    "label": "中性",
+    "pinyin": "huì bú huì jiān kǔ bú huì bú huì",
+    "created_at": "2026-08-23T14:51:49+00:00"
+  }
+]
